@@ -1,2 +1,2 @@
 # branding
-Our branding (logo and others)
+Our branding (logo and other stuff)
